@@ -5,4 +5,4 @@ while read line rest
 do
   echo $line
 done < /etc/passwd
-
+echo aref
